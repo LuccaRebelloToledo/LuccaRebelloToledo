@@ -8,7 +8,7 @@ Estou começando no mundo da programação, atualmente estou cursando sistemas d
 * 😄 Pronouns: ele/dele
 
 <div>
-  <a href="https://www.linkedin.com/in/lucca-toledo-a307b9230"></a>
+  <a href="https://www.linkedin.com/in/lucca-toledo-a307b9230">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaRebelloToledo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaRebelloToledo&layout=compact&langs_count=16&theme=dark"/>
 </div>
