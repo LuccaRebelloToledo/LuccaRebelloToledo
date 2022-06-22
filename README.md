@@ -6,7 +6,6 @@ Estou começando no mundo da programação, atualmente estou cursando sistemas d
 * 🔭 Hoje trabalho com desenvolvimento de aplicativos Web e Mobile
 * 🧠 Estudando Typescript e Java
 * 😄 Pronouns: ele/dele
-* ✉️  You can contact me at [luccarebtoledo@gmail.com](mailto:luccarebtoledo@gmail.com)
 
 <div>
   <a href="https://beacons.ai/luccatoledo">
