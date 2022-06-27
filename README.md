@@ -4,7 +4,7 @@
 Estou começando no mundo da programação, atualmente estou cursando sistemas de informação.
 
 * 🔭 Hoje trabalho com desenvolvimento de aplicativos Web e Mobile
-* 🧠 Estudando Typescript e Java
+* 🧠 Estudando Java e Javascript
 * 😄 Pronouns: ele/dele
 
 <div>
