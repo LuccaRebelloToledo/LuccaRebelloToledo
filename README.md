@@ -1,8 +1,10 @@
 ### Olá, eu sou o Lucca 👋 
 
-
+<div>
 Estou começando no mundo da programação, atualmente estou cursando sistemas de informação.
-Meu portfólio: <a href="https://luccarebellotoledo.github.io/">
+  
+Meu portfólio: <a href="https://luccarebellotoledo.github.io/">luccarebellotoledo.github.io</a>
+</div>
 
 * 🔭 Hoje trabalho com desenvolvimento de aplicativos Web e Mobile
 * 🧠 Estudando Java e Javascript
