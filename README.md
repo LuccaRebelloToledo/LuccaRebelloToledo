@@ -1,29 +1,21 @@
-### Olá, eu sou o Lucca 👋 
+<h1 align="center">Olá 👋, Eu sou o Lucca!</h1>
 
-<div>
-Estou começando no mundo da programação, atualmente estou cursando sistemas de informação.
-  
-Meu portfólio: <a href="https://luccarebellotoledo.github.io/">luccarebellotoledo.github.io</a>
-</div>
+- 🌱 Olá, meu nome é Lucca, sou estudante de Sistemas de Informação na Universidade do Vale do Sapucaí em Pouso Alegre - MG. Atualmente, estou estudando **Java/Mysql** e participando do <a href="https://web.dio.me/track/08901bd0-0ee9-4f4f-82c5-3761f9d87864"> Santander Bootcamp 2023 - Backend Java</a>!
 
-* 🔭 Hoje, trabalho com suporte ERP
-* 🧠 Estudando Java
+<h3 align="left">Como chegar até mim:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/lucca-toledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucca-toledo" height="30" width="40" /></a>
+<a href="mailto:luccarebtoledo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="luccarebtoledo@gmail.com" height="30" width="40" /></a>
+<a href="https://www.dio.me/users/lucca_toledo" target="blank"><img align="center" src="https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/assets/99377036/8394c21b-8216-45da-926d-5f4f52d1033a" alt="lucca_toledo" height="42" width="45" /></a>
+</p>
 
-<div>
-  <a href="https://www.linkedin.com/in/lucca-toledo-a307b9230"></a>
-</div>
+<h3 align="left">Linguagens e ferramentas:</h3>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Lucca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lucca-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucca-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucca-Java" height="30" width="40" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg">
-</div>
-  
-  ##
-  
-  <div>
-  <a href="https://instagram.com/luccareb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luccarebtoledo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucca-toledo-a307b9230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=luccarebellotoledo" alt="luccarebellotoledo"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarebellotoledo&layout=compact" alt="luccarebellotoledo" />
