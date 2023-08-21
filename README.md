@@ -6,7 +6,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/lucca-toledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucca-toledo" height="30" width="40" /></a>
 <a href="mailto:luccarebtoledo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="luccarebtoledo@gmail.com" height="30" width="40" /></a>
-<a href="https://www.dio.me/users/lucca_toledo" target="blank"><img align="center" src="https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/assets/99377036/8394c21b-8216-45da-926d-5f4f52d1033a" alt="lucca_toledo" height="42" width="45" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
