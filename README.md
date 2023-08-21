@@ -16,5 +16,5 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
   
 </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=luccarebellotoledo" alt="luccarebellotoledo"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarebellotoledo&layout=compact" alt="luccarebellotoledo" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luccarebellotoledo" alt="luccarebellotoledo"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luccarebellotoledo&layout=compact" alt="luccarebellotoledo" />
