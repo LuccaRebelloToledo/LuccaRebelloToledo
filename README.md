@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou o Lucca!</h1>
 
-- 🌱 Olá, meu nome é Lucca, sou estudante de Sistemas de Informação na Universidade do Vale do Sapucaí em Pouso Alegre - MG. Atualmente, estou estudando **Java/Mysql** e participando do <a href="https://web.dio.me/track/08901bd0-0ee9-4f4f-82c5-3761f9d87864"> Santander Bootcamp 2023 - Backend Java</a>!
+- 🌱 Olá, meu nome é Lucca, sou estudante de Sistemas de Informação na Universidade do Vale do Sapucaí em Pouso Alegre - MG. Atualmente, estou estudando **Java/Spring Boot**!
 
 <h3 align="left">Como chegar até mim:</h3>
 <p align="left">
