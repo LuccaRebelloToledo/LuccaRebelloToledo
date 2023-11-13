@@ -1,20 +1,26 @@
-<h1 align="center">Olá 👋, Eu sou o Lucca!</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🌱 Olá, meu nome é Lucca, sou estudante de Sistemas de Informação na Universidade do Vale do Sapucaí em Pouso Alegre - MG. Atualmente, estou estudando **Java/Spring Boot**!
-
-<h3 align="left">Como chegar até mim:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/lucca-toledo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucca-toledo" height="30" width="40" /></a>
-<a href="mailto:luccarebtoledo@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="luccarebtoledo@gmail.com" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
-  
+  My name is Lucca, I'm 20 years old and I'm in my fourth term studying Information Technology at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech!
 </p>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luccarebellotoledo" alt="luccarebellotoledo"/>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luccarebellotoledo&layout=compact" alt="luccarebellotoledo" />
+
+<p align="left">
+  🦄 Technologies: 
+                    <code><img height="30" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Nodejs"/></code>
+		                <code><img height="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript"/></code>
+                    <code><img height="30" src="https://www.svgrepo.com/show/452234/java.svg" alt="Java"/></code>
+                    <code><img height="30" src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring"/></code>
+                    <code><img height="30" src="https://www.svgrepo.com/show/127001/sql-file-format.svg" alt="SQL"/></code>
+                    <code><img height="30" src="https://www.svgrepo.com/show/452210/git.svg" alt="Git"/></code>
+</p>
+<p align="left">
+  💌 How to contact me: ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:luccarebtoledo@gmail.com" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucca-toledo/" /></a>
+</p>
