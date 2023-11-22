@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  My name is Lucca, I'm 20 years old and I'm in my fourth term studying Information Technology at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech!
+  My name is Lucca, I'm 21 years old and I'm in my fourth term studying Information Technology at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech!
 </p>
 
 <p align="left">
