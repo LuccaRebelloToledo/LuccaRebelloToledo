@@ -7,6 +7,7 @@
 <p align="left">
   🦄 Technologies: 
                     <code><img height="30" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="Nodejs"/></code>
+		    <code><img height="30" src="https://www.svgrepo.com/show/374146/typescript-official.svg" alt="Typescript"/></code>
 		    <code><img height="30" src="https://www.svgrepo.com/show/349419/javascript.svg" alt="Javascript"/></code>
                     <code><img height="30" src="https://www.svgrepo.com/show/452234/java.svg" alt="Java"/></code>
                     <code><img height="30" src="https://www.svgrepo.com/show/376350/spring.svg" alt="Spring"/></code>
