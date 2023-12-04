@@ -1,20 +1,6 @@
 <img width=100% src="https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/assets/99377036/f0d2b48c-c358-442f-b4a1-86f5a2df750e"/>
 
-<div align='center'>
-
-<div align="center">  
-  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luccarebellotoledo&show_icons=true&count_private=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccarebellotoledo&layout=compact&title_color=6495ED&text_color=fff&bg_color=0d1117&border_color=fff0" />
-  
-</div>
-
-</div>
-
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
-<div><br />
 
 ## Technologies that I use in my everyday:
 
