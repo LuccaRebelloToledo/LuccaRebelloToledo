@@ -29,7 +29,7 @@
 
 ## 🧡 About me:
 
-👋 My name is Lucca, I'm 21 years old and I'm in my fourth term studying Information Technology at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech! <br /> 
+👋 My name is Lucca, I'm 21 years old and I'm in my fourth term studying Information Systems at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech! <br /> 
 🧠 My current goal is specialize in development backend and finish bachelor's of Information Systems at Univas! <br /> 
 🧑‍💻 My main technologies are Javascript/Typescript, NodeJS, ExpressJS and PostgreSQL. <br />
 
