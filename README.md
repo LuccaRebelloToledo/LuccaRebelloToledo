@@ -8,7 +8,7 @@
 
   <div>
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,ts,javascript,postgresql,postman,vscode,git,discord" />
+	    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,ts,javascript,jest,postgresql,redis,aws,docker,vscode,git,github,discord" />
 	</a>
   </div>
 </div>
@@ -20,7 +20,7 @@
 <br />
   <div>
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,aws,eclipse" />
+	    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,eclipse,linux" />
 	</a>   
   </div>
 </div>
@@ -31,7 +31,12 @@
 
 👋 My name is Lucca, I'm 21 years old and I'm graduating in Information Systems at the Univás. I'm currently an Backend Software Engineer Intern at Sugar Cane Tech! <br /> 
 🧠 My current goal is specialize in development backend and finish bachelor's of Information Systems at Univas! <br /> 
-🧑‍💻 My main technologies are Javascript/Typescript, NodeJS, ExpressJS and PostgreSQL. <br />
+🧑‍💻 My main technologies are Javascript/Typescript, NodeJS, ExpressJS and PostgreSQL. <br /><br />
+
+## 📄 Resume:
+
+[Lucca de Almeida Rebello Toledo](https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/files/14195622/Lucca.de.Almeida.Rebello.Toledo.pdf)
+
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
