@@ -35,8 +35,7 @@
 
 ## 📄 Resume:
 
-[Lucca de Almeida Rebello Toledo](https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/files/14195622/Lucca.de.Almeida.Rebello.Toledo.pdf)
-
+[Lucca de Almeida Rebello Toledo.pdf](https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/files/14763410/Lucca.de.Almeida.Rebello.Toledo.pdf)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
