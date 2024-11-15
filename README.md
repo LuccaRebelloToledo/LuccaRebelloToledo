@@ -29,7 +29,7 @@
 
 ## 🧡 About me:
 
-👋 My name is Lucca, I'm 21 years old and I'm graduating in Information Systems at the Univás. I'm currently an Junior Backend Software Engineer at Sugar Cane Tech! <br /> 
+👋 My name is Lucca, I'm 22 years old and I'm graduating in Information Systems at the Univás. I'm currently an Junior Backend Software Engineer at Sugar Cane Tech! <br /> 
 🧠 My current goal is specialize in development backend and finish bachelor's of Information Systems at Univas! <br /> 
 🧑‍💻 My main technologies are Node.js with TypeScript. <br /><br />
 
