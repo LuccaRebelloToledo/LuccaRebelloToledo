@@ -39,7 +39,7 @@
 
 <div align='center'>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=lucca-toledo)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-toledo/)
 
 [![Gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=ko-fi&logoColor=white)](mailto:luccarebtoledo@gmail.com)
 
