@@ -1,37 +1,37 @@
-<img width=100% src="https://github.com/LuccaRebelloToledo/LuccaRebelloToledo/assets/99377036/f0d2b48c-c358-442f-b4a1-86f5a2df750e"/>
+<img width=100% src="https://github.com/user-attachments/assets/3ace6d7b-020b-4aba-8b7e-1f348ba5c1ca"/>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## Technologies that I use in my everyday:
+## 🛠️ Technologies I Use Daily
 
 <br />
 
   <div>
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,ts,javascript,jest,postgresql,redis,aws,docker,vscode,git,github,discord" />
+ 		<img src="https://skillicons.dev/icons?i=nodejs,ts,javascript,aws,git,github,githubactions,linux,postgresql,sentry" />
 	</a>
   </div>
 </div>
 
 <div><br />
 
-## Technologies that I had contact:
+## 🏗️ Technologies I've Worked With
 
 <br />
   <div>
 	<a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,eclipse,linux" />
-	</a>   
+	  <img src="https://skillicons.dev/icons?i=java,spring,graphql,express,azure,regex,react,mysql,redis" />
+	</a>
   </div>
 </div>
 
 <div><br />
 
-## 🧡 About me:
+## 🚀 About Me
 
-👋 My name is Lucca, I'm 22 years old and I'm graduating in Information Systems at the Univás. I'm currently an Junior Backend Software Engineer at Sugar Cane Tech! <br /> 
-🧠 My current goal is specialize in development backend and finish bachelor's of Information Systems at Univas! <br /> 
-🧑‍💻 My main technologies are Node.js with TypeScript. <br /><br />
+👋 Hey there! I'm **Lucca Toledo**, a **Backend Software Engineer** passionate about **cloud computing, microservices, and scalable architectures**.  
+🎯 Currently working at **Sugar Cane Tech**, optimizing **AWS-based** solutions and improving backend performance.  
+🎓 Pursuing my **Bachelor’s in Information Systems** at UNIVÁS.  
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
