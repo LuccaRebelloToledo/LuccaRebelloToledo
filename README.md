@@ -1,7 +1,5 @@
 <img width=100% src="https://github.com/user-attachments/assets/3ace6d7b-020b-4aba-8b7e-1f348ba5c1ca"/>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 ## 🛠️ Technologies I Use Daily
 
 <br />
@@ -31,9 +29,7 @@
 
 👋 Hey there! I'm **Lucca Toledo**, a **Backend Software Engineer** passionate about **cloud computing, microservices, and scalable architectures**.  
 🎯 Currently working at **Sugar Cane Tech**, optimizing **AWS-based** solutions and improving backend performance.  
-🎓 Pursuing my **Bachelor’s in Information Systems** at UNIVÁS.  
-
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+🎓 Pursuing my **Bachelor’s in Information Systems** at UNIVÁS.
 
 <h2 align='center'>Contact me</h2>
 
