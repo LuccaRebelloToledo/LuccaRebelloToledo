@@ -3,7 +3,6 @@
 **Backend Engineer** focused on cloud architecture, microservices, and high-performance systems.
 
 - 🏢 Tech Lead & Backend SWE at **Sugar Cane Tech**
-- 🤝 Open-source contributor to **Microsoft's msal-node**
 - 🎓 B.Sc. Information Systems — UNIVÁS
 - 📍 Brazil
 
